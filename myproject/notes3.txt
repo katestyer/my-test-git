@@ -1,5 +1,6 @@
 git add file path
 git commit -a -m "comment"
 git push
+git pull
 
 new edit
